@@ -1,9 +1,6 @@
-# The Tiberian Order: Writeup
-### Writeup for the Tiberian Order - Contract: Road to Nowhere (OSINT Challenge)
+# Writeup for the Tiberian Order | Contract : Road To Nowhere | OSINT Challenge
 
 *This isn't a writeup about skill, as I used absolutely no skill for this Challenge, the writeup emphasizes that if you use the right tools, and are used to competing in challenges and CTF events, you can find information quite fast.*
-
-<br>
 
 # About The Tiberian Order
 
@@ -12,7 +9,7 @@
 
 The [Tiberian Order](https://tiberianorder.com/about/) is an ancient organization that has stood the test of time. Originating from medieval Europe, her origins are unknown to anyone except her members and clientele. In the earlier days, the Tiberian Order would influence heads of state, or take on clandestine espionage work for wealthy people.
 
-# Contract Road to Nowhere
+# Mission Details
 
 `Special Agent K`, we’ll be needing your assistance on a geolocation matter. One of our clients, a medium sized European goverment agency, has requested we find a needle in a haystack.
 
@@ -28,9 +25,8 @@ As always. Special Agent K, the contract is yours, if you choose to accept.
 
 `I highlighted the important information to me for this investigation.`
 
-<br>
 
-# This is the image provided:
+# Image that was provided:
 
 <img width="433" src="https://user-images.githubusercontent.com/104733166/188274000-900168e2-fdd0-4150-89cb-566944c1dedf.jpg">
 
@@ -38,10 +34,10 @@ The location would be possible to find by hovering for hours in Google Earth, I 
 
 # How I solved this in less than 10 minutes
 
-My Go To Tool is [Aperi'Solve](https://www.aperisolve.com), it's a gem of a tool, and always the first one I go to for image analysis. I also solved a challenge on the 404 CTF organised by the DGSE with Aperi'Solve.
+My *Go To Tool* for image analysis is [Aperi'Solve](https://www.aperisolve.com), it's a gem of a tool, and always the first one I go to. I also solved a challenge on the 404 CTF organised by the DGSE with Aperi'Solve.
 
 First I submitted the image, and got no results, the great thing about Aperi'Solve is that it stores who came and when, and what passwords were tried.
-I saw that 1920 was tried, Aperi'Solve won't tell you if it works however! But it came back to me that the initial mission briefing said that `1920 is highly important`, which can be classed as a hint.
+I saw that the pw:``1920 was tried, Aperi'Solve won't tell you if the password works, but from seeing 1920, it came back to me that the initial mission briefing said that `1920 is highly important`, which can be classed as a hint.
 
 We can see 9 people uploaded, and common password was 1920.
 
