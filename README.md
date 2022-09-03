@@ -20,7 +20,7 @@ Our client is involved in fighting terrorist groups in `Asia` and `Africa`. Rece
 
 After having located most safehouses, our client is still struggling to locate a few of them. Since the operation to take down all of these locations needs to be synchronized. There’s an urgent need to `identify them all` before the next phase can begin.
 
-Below you find `an image` of what appears to be a `village`, with a Below you find `an image` of what appears to be a `village`, with a `red marker to indicate the exact location`. It’s your assignment to `find where in the world this is`. Currently we have reason to believe this is in `Africa` or `Asia`. But, given the organizations’ widespread members, this is only a guess at this time.
+Below you find `an image` of what appears to be a `village`, with a `red marker to indicate the exact location`. It’s your assignment to `find where in the world this is`. Currently we have reason to believe this is in `Africa` or `Asia`. But, given the organizations’ widespread members, this is only a guess at this time.
 
 Use the `coordinates` you find `as the password to open the ZIP archive`. Inside, you find the `linkfile to your Contract Card` as always. Also, we heard the number `1920` is of importance in this case…
 
