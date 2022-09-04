@@ -1,5 +1,5 @@
 # Tiberian Order writeup
-**Contract Road To Nowhere** | OSINT Challenge
+Contract: **Road To Nowhere** | OSINT Challenge
 
 *This isn't a writeup about skill, as I used absolutely no skill for this Challenge, the writeup emphasizes that if you use the right tools, and are used to competing in challenges and CTF events, you can find information quite fast.*
 
