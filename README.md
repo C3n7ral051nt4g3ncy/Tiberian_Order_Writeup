@@ -7,7 +7,6 @@ Contract: **Road To Nowhere** | OSINT CTF Challenge
 
 <img width="233" src="https://user-images.githubusercontent.com/104733166/188273698-4d11c2c9-6308-44f3-8374-90284693fc6b.png">
 
-
 The [Tiberian Order](https://tiberianorder.com/about/) is an ancient organization that has stood the test of time. Originating from medieval Europe, her origins are unknown to anyone except her members and clientele. In the earlier days, the Tiberian Order would influence heads of state, or take on clandestine espionage work for wealthy people.
 
 # Mission Details
